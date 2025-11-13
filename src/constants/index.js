@@ -101,6 +101,11 @@ export const stats = [
     title: "Transaction",
     value: "$230M+",
   },
+  // {
+  //   id: "stats-4",
+  //   title: "Countries Reached",
+  //   value: "35+",
+  // },
 ];
 
 export const footerLinks = [
